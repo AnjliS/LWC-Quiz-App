@@ -2,4 +2,4 @@
 
 
 
-[Watch the LWC Quiz](https://github.com/AnjliS/LWC-Quiz-App/blob/main/LWC-Quiz%20App.mp4)
+[Watch the LWC Quiz](https://youtu.be/26F7D9ToNHk)
